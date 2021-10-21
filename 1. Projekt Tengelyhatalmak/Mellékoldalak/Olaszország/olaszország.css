@@ -1,0 +1,16 @@
+body {padding-top: 135px; background-image: url(../../képek/main\ background.jpg); text-align: justify; color: white;
+      background-repeat: no-repeat; background-position: center; background-size: cover;}
+h2, h3 {margin-bottom: 15px;}
+#container {border: 40px; padding: 20px;}
+#flag {width: 200px; height: 105px; margin: 0px; margin-left: 10px;}
+img {display: block; float: right; margin: 19px; width: 25%; cursor: pointer;}
+h1 {text-align: center;}
+b {color: rgb(0, 96, 141);}
+nav {background-image: linear-gradient(to right, red , rgb(255, 255, 255), green); font-size: larger;}
+footer {background-image: linear-gradient(to right, red , rgb(255, 255, 255), green); font-size: large;}
+#jelenlegi {color: white;}
+#link:hover {color: white;}
+.img-fluid{width: 100%;height: auto; }
+
+
+

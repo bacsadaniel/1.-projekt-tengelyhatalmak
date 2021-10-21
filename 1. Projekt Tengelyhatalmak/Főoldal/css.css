@@ -1,0 +1,15 @@
+body {background-image: url(../képek/main\ background.jpg); background-repeat: no-repeat; background-size: cover; background-position: center; padding-top: 55px;}
+h2, h3 {margin-bottom: 15px;}
+#container {color: white; text-align: justify; border: 40px; padding: 20px;}
+img {cursor: pointer; width: 80%; padding: 10px;}
+h1 {text-align: center;}
+b {color: seagreen;}
+#felsorolas {margin: 10px;}
+ol {text-align: left;}
+#jelenlegi {color: white;}
+#link:hover {color: white;}
+nav {font-size: large;}
+footer {line-height: 20px;}
+table, td, th {border: 1px solid aqua; margin: 5px; padding: 5px; text-align: center; font-size: large;}
+#tabla {width: 100%;}
+
